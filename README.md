@@ -1,0 +1,1 @@
+# asterisk_go_trunk_config
