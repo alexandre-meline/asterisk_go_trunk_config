@@ -34,8 +34,6 @@ apt-get install git-core
 
 git clone https://github.com/GoTrunk/asterisk-config.git asterisk
 
-cd /etc/asterisk
-
 git checkout dynamic-ip
 
 nano sip.conf
