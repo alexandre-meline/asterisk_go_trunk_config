@@ -14,7 +14,7 @@ wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-18-current.ta
 
 tar -xvzf asterisk-18-current.tar.gz
 
-cd asterisk-18.6.0
+cd asterisk-18.15.1
 
 sudo apt-get install libedit-dev
 
